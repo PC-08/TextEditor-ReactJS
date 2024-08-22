@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TextEditor-ReactJS/static/css/main.652918fa.chunk.css",
+    "main.js": "/TextEditor-ReactJS/static/js/main.71c71b16.chunk.js",
+    "main.js.map": "/TextEditor-ReactJS/static/js/main.71c71b16.chunk.js.map",
+    "runtime-main.js": "/TextEditor-ReactJS/static/js/runtime-main.fd03eab1.js",
+    "runtime-main.js.map": "/TextEditor-ReactJS/static/js/runtime-main.fd03eab1.js.map",
+    "static/js/2.d581bd34.chunk.js": "/TextEditor-ReactJS/static/js/2.d581bd34.chunk.js",
+    "static/js/2.d581bd34.chunk.js.map": "/TextEditor-ReactJS/static/js/2.d581bd34.chunk.js.map",
+    "index.html": "/TextEditor-ReactJS/index.html",
+    "static/css/main.652918fa.chunk.css.map": "/TextEditor-ReactJS/static/css/main.652918fa.chunk.css.map",
+    "static/js/2.d581bd34.chunk.js.LICENSE.txt": "/TextEditor-ReactJS/static/js/2.d581bd34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd03eab1.js",
+    "static/js/2.d581bd34.chunk.js",
+    "static/css/main.652918fa.chunk.css",
+    "static/js/main.71c71b16.chunk.js"
+  ]
+}
